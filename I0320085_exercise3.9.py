@@ -8,3 +8,4 @@ tup2 = ('abc', 'xyz')
 #Jadi, nuatlah tuple baru sebagai berikut
 tup3 = tup1 + tup2
 print(tup3)
+

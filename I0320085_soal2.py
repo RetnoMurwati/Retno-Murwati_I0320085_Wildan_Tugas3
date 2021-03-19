@@ -6,7 +6,7 @@ dict ={'Nama': 'Retno Murwati',
 print(dict)
 
 #Mengubah Salah Satu Hobi dan Sosial Media
-dict['Hobi'][1] = ('Membaca')
+
 dict['Social Media'][2] = ('ID Telegram : @inisyalRe')
 
 #Menghapus Dua Makanan Favorit

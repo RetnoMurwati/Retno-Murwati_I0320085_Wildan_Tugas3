@@ -7,3 +7,4 @@ del tup
 #lalu buat kembali tuple yang baru dengan elemen yang diinginkan
 tup = ('Bahasa', 'Literasi', 2020)
 print("Setelah menghapus tuple :", tup)
+

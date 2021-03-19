@@ -23,3 +23,4 @@ for data in range(0,12):
 #Menampilkan panjang list
 print(len(list_teman))
 
+

@@ -8,4 +8,3 @@ del dict # hapus dictionary yang sudah ada
 
 print("dict['Age']:", dict['Age'])
 print("dict['School']:", dict['School'])
-
