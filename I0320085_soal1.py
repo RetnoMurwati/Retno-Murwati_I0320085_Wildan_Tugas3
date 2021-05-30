@@ -12,7 +12,7 @@ list_teman[5] = 'Salma'
 list_teman[9] = 'Alfina'
 
 #Menambah dua teman baru
-list_teman.extend(['Salsa', 'Wanda'])
+list_teman.extend(['Salsa', 'Nenda'])
 
 #Menampilkan semua teman dengan perulangan
 urutan = 0
